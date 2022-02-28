@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>funfare</title>
+        <meta name="description" content="An interactive getting started guide for Brackets.">
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://use.typekit.net/xes0gxj.css">
+        
+    </head>
+    <body>
+        
+<header>CONCEPT　　WORKS　　ACCESS</header>
+<div class="画像1">    
+<img src="Funfare!%20%E3%83%AD%E3%82%B4%E6%9C%80%E6%96%B0%E6%A1%88%EF%BC%96.jpg"width="70%"> 
+</div>
+<div class="列">
+<img src="Funfare_%E8%8A%B1-1.png"width="20%">
+<img src="Funfare_%E8%8A%B1-3.png"width="20%">
+<img src="Funfare_%E8%8A%B1-6.png"width="20%">
+<img src="Funfare_%E8%8A%B1-5.png"width="20%">
+<img src="Funfare_%E8%8A%B1-2.png"width="20%">
+</div>
+       
+        
+<div class="コンセプト">
+<div class="タイトル1"><u>CONCEPT</u></div>
+
+
+
+<div class="sample_box11">
+<div class="sample_box11_tape"> </div>
+<p class="sample_box11_title">funfare</p>
+<p>「音楽という目に見えない表現に対し、視覚、映像、工業、空間の４つの表現手法からアプローチすることで、音楽の捉え方が華やかになる展示会」</p>
+  
+</div>   
+</div>
+
+
+<div class="タイトル1"><u>WORKS</u></div> 
+
+<div class="画像1"><img src="%E4%BD%9C%E5%93%811.jpg"width="50%"></div>
+<div class="タイトル1"><u>ACCESS</u></div>  
+        
+     
+<div class="地図">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.2617963650646!2d139.70594951569564!3d35.67055528019671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188ca31a6f487b%3A0x59410080ec9c6d61!2z44OH44K244Kk44Oz44OV44Kn44K544K_44Ku44Oj44Op44Oq44O85Y6f5a6_!5e0!3m2!1sja!2sjp!4v1646045032743!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe></div>
+
+<div class="box1">
+<p>
+
+日程：　　　2022年3月4日(金)〜7日(月)<br>
+時間：　　　11:00〜20:00(初日12:00〜/最終日18:00close)<br>
+開催場所：　デザインフェスタギャラリー原宿　WEST 1-F<br>
+</p>
+</div>
+
+<div class="列">
+<img src="Funfare_%E8%8A%B1-1.png"width="20%">
+<img src="Funfare_%E8%8A%B1-3.png"width="20%">
+<img src="Funfare_%E8%8A%B1-6.png"width="20%">
+<img src="Funfare_%E8%8A%B1-5.png"width="20%">
+<img src="Funfare_%E8%8A%B1-2.png"width="20%">
+</div>
+        
+<footer><hr>
+©︎tsumiki 2022        
+</footer>
+        
+    </body>
+</html>
